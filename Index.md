@@ -8,6 +8,7 @@ Hub central do universo. Toda informação parte daqui.
 - [[01 - Mundo/Temas e Tom|Temas e Tom]]
 
 ## Locais
+- [[02 - Locais/ARCA|ARCA]] — módulo espacial em órbita
 - [[02 - Locais/Cidade Principal|Cidade Principal]]
 
 ## Facções
